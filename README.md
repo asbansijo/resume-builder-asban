@@ -1,4 +1,4 @@
-# Resume Builder Application
+# Simple Resume Builder Application
 
 This is a Resume Builder application built using React and Material UI. It allows users to input personal information, education details, work experience, skills, and projects in a step-by-step manner. After completing the form, users can view a preview of their resume and download it as a PDF.
 
